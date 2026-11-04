@@ -1,12 +1,10 @@
 # **GOLDEN HOUR: a macOS 27-inspired Tumblr theme**
 
-
 Introducing **[Golden Hour](https://navi-0304.tumblr.com/post/832250829562101760/golden-hour-a-macos-27-inspired-tumblr-theme)**, a fully interactive, macOS 27-inspired desktop theme for Tumblr!
 
-**[Static preview](https://ptsanjuan01.github.io/golden-hour/index.html)**| **[Free version](https://payhip.com/b/lT9ug)** | **[Full version](https://payhip.com/b/kUdiO)**
+**[Static preview](https://ptsanjuan01.github.io/golden-hour/index.html)** | **[Free version](https://payhip.com/b/lT9ug)** | **[Full version](https://payhip.com/b/kUdiO)**
 
 ## **Features**
-
 
 ### _Desktop & Interface_
 * Initial boot screen that mimics a Mac powering up
@@ -36,5 +34,4 @@ Introducing **[Golden Hour](https://navi-0304.tumblr.com/post/832250829562101760
 * [Terms of use](https://navi-0304.tumblr.com/terms)
 * [Credits](https://navi-0304.tumblr.com/credits)
   
-
 For questions, suggestions, or bug reports, feel free to [send me an ask](https://navi-0304.tumblr.com/ask)!
