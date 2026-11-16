@@ -186,7 +186,7 @@ img {
 }
 
 #wall .wp-light {
-  background-image: url('../images/gg_light.png');
+  background-image: url('../gg_light.png');
 }
 
 html:not([data-theme='dark']) #wall .wp-light {
@@ -198,7 +198,7 @@ html:not([data-theme='dark']) #wall svg {
 }
 
 #wall .wp-dark {
-  background-image: url('../images/gg_dark.png');
+  background-image: url('../gg_dark.png');
 }
 
 html[data-theme='dark'] #wall .wp-dark {
