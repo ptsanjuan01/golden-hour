@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Golden Hour</title>
+    <link rel="shortcut icon" href="images/avatar.jpg" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        background: #1c1c1e;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      (function () {
+        var p = [
+          "post-7980012932.html",
+          "post-7980012895.html",
+          "post-7980012858.html",
+          "post-7980012821.html",
+          "post-7980012784.html",
+          "post-7980012747.html",
+          "post-7980012710.html",
+          "post-7980012673.html",
+          "post-7980012636.html",
+          "post-7980012599.html",
+          "post-7980012562.html",
+          "post-7980012525.html",
+          "post-7980012488.html",
+          "post-7980012451.html",
+          "post-7980012414.html",
+          "post-7980012377.html",
+        ];
+        location.replace(p[Math.floor(Math.random() * p.length)]);
+      })();
+    </script>
+  </body>
+</html>
